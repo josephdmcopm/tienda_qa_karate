@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+//group = 'co.com.jose'
+//version = '1.0-SNAPSHOT'
+
+repositories {
+    maven{
+        url 'https://repo.maven.apache.org/maven2'
+    }
+}
+
+dependencies {
+    //testImplementation 'com.intuit.karate:karate-junit5:1.2.0.RC4'
+    testImplementation 'com.intuit.karate:karate-junit5:1.4.0.RC3'
+}
