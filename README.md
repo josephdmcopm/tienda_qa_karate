@@ -52,5 +52,5 @@
 4. Información adicional
 	-En el repositorio se encuentra el archivo Pruebas_karate.docx con las pruebas exitosas de la ejecución.
 
-Referencia: https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-Recordar que un readme correcto debe tener la extensión .md y debe estar dentro del proyecto.
+Referencia: https://github.com/josephdmcopm/tienda_qa_karate
+
